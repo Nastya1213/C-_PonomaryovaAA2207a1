@@ -1,0 +1,15 @@
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/bin/Debug/net7.0/Factory
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/bin/Debug/net7.0/Factory.deps.json
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/bin/Debug/net7.0/Factory.runtimeconfig.json
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/bin/Debug/net7.0/Factory.dll
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/bin/Debug/net7.0/Factory.pdb
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/Factory.csproj.AssemblyReference.cache
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/Factory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/Factory.AssemblyInfoInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/Factory.AssemblyInfo.cs
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/Factory.csproj.CoreCompileInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/Factory.dll
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/refint/Factory.dll
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/Factory.pdb
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/Factory.genruntimeconfig.cache
+/Users/anastasiaponomareva/Desktop/c#/Factory/Factory/obj/Debug/net7.0/ref/Factory.dll
