@@ -168,9 +168,9 @@ namespace Adapter
         {
             // требования к системе
             return new Requirements(
-                _computerGame.getMinimumGpuMemoryInMegabytes() / 1024, // Переводим из МБ в ГБ
-                _computerGame.getDiskSpaceNeededInGB(),
-                _computerGame.getRamNeededInGb(),
+                _computerGame.getMinimumGpuMemoryInMegabytes() * 8 / 1024, 
+                _computerGame.getDiskSpaceNeededInGB() * 8,
+                _computerGame.getRamNeededInGb() * 8,
                 _computerGame.getCoreSpeedInGhz(),
                 _computerGame.getCoresNeeded());
         }

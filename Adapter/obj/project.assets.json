@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\Adapter\\Adapter.csproj",
+      "projectUniqueName": "G:\\C#\\C-_PonomaryovaAA2207a1\\Adapter\\Adapter.csproj",
       "projectName": "Adapter",
-      "projectPath": "G:\\C#\\Adapter\\Adapter.csproj",
+      "projectPath": "G:\\C#\\C-_PonomaryovaAA2207a1\\Adapter\\Adapter.csproj",
       "packagesPath": "C:\\Users\\Ponomaryovaaa\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\Adapter\\obj\\",
+      "outputPath": "G:\\C#\\C-_PonomaryovaAA2207a1\\Adapter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
