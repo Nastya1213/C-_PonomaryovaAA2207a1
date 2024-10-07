@@ -1,0 +1,30 @@
+﻿@model asp1.Models.Persone;
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <form asp-action="PersoneCard" method="post">
+        <center>
+            <div>
+                    <label asp-for="Id">Индентификационный номер</label>    <br />
+                <input asp-for="Id" />
+            </div>
+            <div>
+                <label asp-for="Age">Возраст</label>
+                <br />
+                <input asp-for="Age" />
+            </div>
+                <div>
+                    <label asp-for="Branch">Отдел</label>
+                    <br />
+                    <select asp-for="Branch">
+                        <option value="1">Бухгалтерия</option>
+                        <option value="2">Кадры</option>
+                    </select>
+                </div>
+        </center>
+    </form>
+</body>
+</html>

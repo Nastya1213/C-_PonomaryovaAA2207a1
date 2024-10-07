@@ -1,0 +1,14 @@
+G:\C#\Adapter\bin\Debug\net8.0\Adapter.exe
+G:\C#\Adapter\bin\Debug\net8.0\Adapter.deps.json
+G:\C#\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+G:\C#\Adapter\bin\Debug\net8.0\Adapter.dll
+G:\C#\Adapter\bin\Debug\net8.0\Adapter.pdb
+G:\C#\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+G:\C#\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+G:\C#\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+G:\C#\Adapter\obj\Debug\net8.0\Adapter.dll
+G:\C#\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+G:\C#\Adapter\obj\Debug\net8.0\Adapter.pdb
+G:\C#\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+G:\C#\Adapter\obj\Debug\net8.0\ref\Adapter.dll
