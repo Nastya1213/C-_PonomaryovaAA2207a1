@@ -1,0 +1,14 @@
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/obj/Debug/net8.0/BrigdeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/obj/Debug/net8.0/BrigdeApp.AssemblyInfoInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/obj/Debug/net8.0/BrigdeApp.AssemblyInfo.cs
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/obj/Debug/net8.0/BrigdeApp.csproj.CoreCompileInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/bin/Debug/net8.0/BrigdeApp
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/bin/Debug/net8.0/BrigdeApp.deps.json
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/bin/Debug/net8.0/BrigdeApp.runtimeconfig.json
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/bin/Debug/net8.0/BrigdeApp.dll
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/bin/Debug/net8.0/BrigdeApp.pdb
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/obj/Debug/net8.0/BrigdeApp.dll
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/obj/Debug/net8.0/refint/BrigdeApp.dll
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/obj/Debug/net8.0/BrigdeApp.pdb
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/obj/Debug/net8.0/BrigdeApp.genruntimeconfig.cache
+/Users/anastasiaponomareva/Desktop/c#/BrigdeApp/obj/Debug/net8.0/ref/BrigdeApp.dll
