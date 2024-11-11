@@ -1,0 +1,15 @@
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/bin/Debug/net8.0/Comprosite
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/bin/Debug/net8.0/Comprosite.deps.json
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/bin/Debug/net8.0/Comprosite.runtimeconfig.json
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/bin/Debug/net8.0/Comprosite.dll
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/bin/Debug/net8.0/Comprosite.pdb
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/Comprosite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/Comprosite.AssemblyInfoInputs.cache
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/Comprosite.AssemblyInfo.cs
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/Comprosite.csproj.CoreCompileInputs.cache
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/Comprosite.sourcelink.json
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/Comprosite.dll
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/refint/Comprosite.dll
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/Comprosite.pdb
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/Comprosite.genruntimeconfig.cache
+/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/Debug/net8.0/ref/Comprosite.dll
