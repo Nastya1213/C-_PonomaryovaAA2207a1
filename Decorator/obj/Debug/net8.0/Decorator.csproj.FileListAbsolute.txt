@@ -1,0 +1,14 @@
+/Users/anastasiaponomareva/Desktop/c#/Decorator/obj/Debug/net8.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaponomareva/Desktop/c#/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfoInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfo.cs
+/Users/anastasiaponomareva/Desktop/c#/Decorator/obj/Debug/net8.0/Decorator.csproj.CoreCompileInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/Decorator/bin/Debug/net8.0/Decorator
+/Users/anastasiaponomareva/Desktop/c#/Decorator/bin/Debug/net8.0/Decorator.deps.json
+/Users/anastasiaponomareva/Desktop/c#/Decorator/bin/Debug/net8.0/Decorator.runtimeconfig.json
+/Users/anastasiaponomareva/Desktop/c#/Decorator/bin/Debug/net8.0/Decorator.dll
+/Users/anastasiaponomareva/Desktop/c#/Decorator/bin/Debug/net8.0/Decorator.pdb
+/Users/anastasiaponomareva/Desktop/c#/Decorator/obj/Debug/net8.0/Decorator.dll
+/Users/anastasiaponomareva/Desktop/c#/Decorator/obj/Debug/net8.0/refint/Decorator.dll
+/Users/anastasiaponomareva/Desktop/c#/Decorator/obj/Debug/net8.0/Decorator.pdb
+/Users/anastasiaponomareva/Desktop/c#/Decorator/obj/Debug/net8.0/Decorator.genruntimeconfig.cache
+/Users/anastasiaponomareva/Desktop/c#/Decorator/obj/Debug/net8.0/ref/Decorator.dll
