@@ -7,7 +7,15 @@ public class Document
 
     public void AddSection(IDocumentComponent section)
     {
-        _sections.Add(section);
+        if (section is Section)
+        {
+            _sections.Add(section);
+        }
+        else
+        {
+            throw new NotSupportedException("Можно добавлять только разделы");
+        }
+        
     }
 
     public void RemoveSection(IDocumentComponent section)

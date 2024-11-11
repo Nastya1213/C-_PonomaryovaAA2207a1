@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anastasiaponomareva/Desktop/course-project/Comprosite/Comprosite.csproj": {}
+    "/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Comprosite/Comprosite.csproj": {}
   },
   "projects": {
-    "/Users/anastasiaponomareva/Desktop/course-project/Comprosite/Comprosite.csproj": {
+    "/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Comprosite/Comprosite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anastasiaponomareva/Desktop/course-project/Comprosite/Comprosite.csproj",
+        "projectUniqueName": "/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Comprosite/Comprosite.csproj",
         "projectName": "Comprosite",
-        "projectPath": "/Users/anastasiaponomareva/Desktop/course-project/Comprosite/Comprosite.csproj",
+        "projectPath": "/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Comprosite/Comprosite.csproj",
         "packagesPath": "/Users/anastasiaponomareva/.nuget/packages/",
-        "outputPath": "/Users/anastasiaponomareva/Desktop/course-project/Comprosite/obj/",
+        "outputPath": "/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Comprosite/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anastasiaponomareva/.nuget/NuGet/NuGet.Config"
