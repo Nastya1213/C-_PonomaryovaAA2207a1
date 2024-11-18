@@ -1,0 +1,15 @@
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/bin/Debug/net8.0/Proxy
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/bin/Debug/net8.0/Proxy.deps.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/bin/Debug/net8.0/Proxy.runtimeconfig.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/bin/Debug/net8.0/Proxy.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/bin/Debug/net8.0/Proxy.pdb
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/Proxy.AssemblyInfoInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/Proxy.AssemblyInfo.cs
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/Proxy.csproj.CoreCompileInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/Proxy.sourcelink.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/Proxy.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/refint/Proxy.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/Proxy.pdb
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/Proxy.genruntimeconfig.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Proxy/obj/Debug/net8.0/ref/Proxy.dll
