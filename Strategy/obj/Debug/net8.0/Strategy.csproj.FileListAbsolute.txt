@@ -1,0 +1,15 @@
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/bin/Debug/net8.0/Strategy
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/bin/Debug/net8.0/Strategy.deps.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/bin/Debug/net8.0/Strategy.runtimeconfig.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/bin/Debug/net8.0/Strategy.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/bin/Debug/net8.0/Strategy.pdb
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfoInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfo.cs
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/Strategy.csproj.CoreCompileInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/Strategy.sourcelink.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/Strategy.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/refint/Strategy.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/Strategy.pdb
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/Strategy.genruntimeconfig.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Strategy/obj/Debug/net8.0/ref/Strategy.dll
