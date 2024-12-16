@@ -1,0 +1,44 @@
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern.exe
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern.deps.json
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern.runtimeconfig.json
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern.dll
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern.pdb
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.AssemblyInfo.cs
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.dll
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/obj/Debug/net8.0/refint/Mediator Pattern.dll
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.pdb
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.genruntimeconfig.cache
+C:/Users/User/Desktop/Mediator Pattern/Mediator Pattern/obj/Debug/net8.0/ref/Mediator Pattern.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern.deps.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern.runtimeconfig.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/bin/Debug/net8.0/Mediator Pattern.pdb
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.AssemblyInfoInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.AssemblyInfo.cs
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.csproj.CoreCompileInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.sourcelink.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/refint/Mediator Pattern.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.pdb
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/Mediator Pattern.genruntimeconfig.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator Pattern/obj/Debug/net8.0/ref/Mediator Pattern.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/bin/Debug/net8.0/Mediator Pattern
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/bin/Debug/net8.0/Mediator Pattern.deps.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/bin/Debug/net8.0/Mediator Pattern.runtimeconfig.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/bin/Debug/net8.0/Mediator Pattern.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/bin/Debug/net8.0/Mediator Pattern.pdb
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/Mediator Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/Mediator Pattern.AssemblyInfoInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/Mediator Pattern.AssemblyInfo.cs
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/Mediator Pattern.csproj.CoreCompileInputs.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/Mediator Pattern.sourcelink.json
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/Mediator Pattern.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/refint/Mediator Pattern.dll
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/Mediator Pattern.pdb
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/Mediator Pattern.genruntimeconfig.cache
+/Users/anastasiaponomareva/Desktop/c#/C-_PonomaryovaAA2207a1/Mediator/Mediator/obj/Debug/net8.0/ref/Mediator Pattern.dll
